@@ -19,6 +19,6 @@ function destructivelyAddElementToEndOfArray(array, element){
 }
 
 function accessElementInArray(array, index){
-  var array
+  var array = array
   console.log(array[`${index}`])
 }
